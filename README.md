@@ -1,7 +1,6 @@
 # Bank_Marketing_Analysis
 This repo contains all the files used in the Bank Marketing Project
 
-MY DASHBOARD :- https://lnkd.in/dCQZZxR7
 PFA DEMO CLIP :- https://drive.google.com/drive/folders/15NZrc-zZdFHCJ0SNL1z3tVN8Zi7eAMVB?usp=sharing
 
 The data is related to direct marketing campaigns of a Portuguese banking institution.
